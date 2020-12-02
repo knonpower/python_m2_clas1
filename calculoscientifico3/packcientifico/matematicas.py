@@ -9,7 +9,6 @@ def perimetro_circulo(diametro):
     p_circulo = pi * diametro
     return p_circulo
 
-    
 def area_triangulo(base, altura):
     a_triangulo = (base * altura) / 2
     return a_triangulo
