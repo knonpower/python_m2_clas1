@@ -1,0 +1,2 @@
+
+from packcientifico.funciones import * 
